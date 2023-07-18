@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="Novo documento 1"
+    viewBox="0 0 232.3 105.69"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="838"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.7"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="121.9357"
+      inkscape:cy="161.02853"
+      inkscape:window-width="1600"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-253.06 -572.4)"
+    >
+    <g
+        id="g3627"
+      >
+      <path
+          id="path2847"
+          sodipodi:rx="32.577419"
+          sodipodi:ry="30.809652"
+          style="fill:#ffff64"
+          sodipodi:type="arc"
+          d="m284.86 634.16c0 17.016-14.585 30.81-32.577 30.81s-32.577-13.794-32.577-30.81 14.585-30.81 32.577-30.81 32.577 13.794 32.577 30.81z"
+          transform="matrix(.99762 0 0 1.0549 84.748 -59.717)"
+          sodipodi:cy="634.15906"
+          sodipodi:cx="252.2856"
+      />
+      <path
+          id="path2842"
+          sodipodi:nodetypes="ccsscssscsscsc"
+          style="stroke:#ffffff;stroke-width:3;fill:#ebebeb"
+          d="m254.56 676.59h229.3c-0.001-6.3636-0.54495-12.599-1.9088-18.853-1.1144-5.1098-4.12-9.0707-7.3089-12.841-10.93-12.921-26.037-14.543-41.916-13.111 2.8031-4.191 0.17442-26.504-1.5432-32.034-6.2671-20.176-27.218-28.089-46.318-25.313-13.863 2.0148-24.221 14.364-28.508 27.217-2.1934 6.5762-3.5757 13.501-2.9325 20.512 1.1032 5.2471-3.2826 0.20429-5.5202-0.69035-7.2245-2.8886-14.701-5.7344-22.756-5.2163-18.587 1.1954-28.277 16.688-30.186 33.813-13.423-1.9851-26.175 0.10775-34.425 11.633-3.0879 4.314-5.2904 9.5153-5.9815 14.884z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Sun behind cloud</dc:title
+        >
+        <dc:date
+          >2010-06-08T07:02:45</dc:date
+        >
+        <dc:description
+          >Sun behind a cloud.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/64987/sun-behind-cloud-by-laobc</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >laobc</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >cloud</rdf:li
+            >
+            <rdf:li
+              >summer</rdf:li
+            >
+            <rdf:li
+              >summer2010</rdf:li
+            >
+            <rdf:li
+              >sun</rdf:li
+            >
+            <rdf:li
+              >weather</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
