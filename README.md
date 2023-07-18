@@ -21,6 +21,7 @@ VITE_REACT_APP_OPEN_WEATHER_API_KEY = <your-api-key>
 ### 5. Start the development server:
 
 npm run dev
+
 This will start the application in development mode. Open your browser and navigate to http://localhost:3000 to view it.
 
 Technologies Used
