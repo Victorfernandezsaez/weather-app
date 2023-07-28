@@ -16,7 +16,7 @@ Obtain an API key from a weather data provider (e.g., OpenWeatherMap).
 
 ### 4. Create a .env file in the root directory of the project and add the following line, replacing <your-api-key> with your actual API key:
 
-VITE_REACT_APP_OPEN_WEATHER_API_KEY = <your-api-key>
+VITE_REACT_APP_OPEN_WEATHER_API_KEY = < your-api-key >
 
 ### 5. Start the development server:
 
